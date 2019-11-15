@@ -23,7 +23,7 @@ Copyright (C) Microsoft Corporation. All rights reserved.
 \  /\  / | | | | |_\ \ | | (_) | |_| | |_) | |_/ / |  | |_| | ||  __/
  \/  \/|_|_| |_|\____/_|  \___/ \__,_| .__/\____/|_|   \__,_|\__\___|
                                      | |
-                                     |_|        @Deguy    sageisg.com
+                                     |_|  @Deguy93210594  sageisg.com
 
 
 This script loops through all available groups and attempts to add a user to them.
@@ -49,7 +49,7 @@ Copyright (C) Microsoft Corporation. All rights reserved.
 \  /\  / | | | | |_\ \ | | (_) | |_| | |_) | |_/ / |  | |_| | ||  __/
  \/  \/|_|_| |_|\____/_|  \___/ \__,_| .__/\____/|_|   \__,_|\__\___|
                                      | |
-                                     |_|        @Deguy    sageisg.com
+                                     |_|  @Deguy93210594  sageisg.com
 
 2019-11-15 11:52:11 AM [INFO]   -       Found 18 localgroups.
 2019-11-15 11:52:11 AM [INFO]   -       Successfully added user to group: Access Control Assistance Operators
