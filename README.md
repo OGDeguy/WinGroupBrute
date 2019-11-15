@@ -1,6 +1,6 @@
 # WinGroupBrute
 
-# WinGroupBrute is a script that takes a supplied user and attempts to add it to all localgroups and domain groups (with the --domain flag). This script is not stealthy.
+WinGroupBrute is a script that takes a supplied user and attempts to add it to all localgroups and domain groups (with the --domain flag). This script is not stealthy.
 
 ## Usage 
 
