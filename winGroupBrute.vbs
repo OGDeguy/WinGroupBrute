@@ -82,7 +82,7 @@ Function PrintBanner()
 	wscript.echo("\  /\  / | | | | |_\ \ | | (_) | |_| | |_) | |_/ / |  | |_| | ||  __/")
 	wscript.echo(" \/  \/|_|_| |_|\____/_|  \___/ \__,_| .__/\____/|_|   \__,_|\__\___|")
 	wscript.echo("                                     | |                             ")
-	wscript.echo("                                     |_|  	@Deguy 	  sageisg.com")
+	wscript.echo("                                     |_|  @Deguy93210594  sageisg.com")
 	wscript.echo("")
 End Function
 
